@@ -1,2 +1,2 @@
 # JorgeEscobar-ME.github.io
-Animación en html, css y JS para un amigo
+Animación en HTML, CSS y JS para un amigo
